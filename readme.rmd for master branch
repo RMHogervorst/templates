@@ -1,0 +1,25 @@
+# The package name
+
+# Badges for Travis-CI (and any other badges)
+```
+use badgecreatr::badgeplacer(location = ".", 
+status = "active", travis = TRUE, codecov = FALSE, 
+licence = "search", githubaccount = "search", 
+githubrepo = "search", 
+branch = "master")
+```
+Also add latest change
+
+
+# Short description of the package
+
+# Installation instructions
+For now you will have to install using `devtools::install_github("rmhogervorst/PACKAGENAME")`
+
+Installation via cran with : install_packages(NAMEOFPACKAGE)
+
+# Example usage
+
+# Contact
+I'm always looking for people to help me improve my work. 
+Contact me directly, use an [issue](https://github.com/RMHogervorst/PACKAGENAME/issues), fork me or submit a pull request.
