@@ -1,0 +1,41 @@
+foobar 0.2.0 (2016-04-01)
+=========================
+
+### NEW FEATURES
+
+* New function added `do_things()` to do things (#5)
+
+### MINOR IMPROVEMENTS
+
+* Improved documentaiton for `things()` (#4)
+
+### BUG FIXES
+
+* Fix parsing bug in `stuff()` (#3)
+
+### DEPRECATED AND DEFUNCT
+
+* `hello_world()` now deprecated and will be removed in a
+future version, use `hello_mars()`
+
+
+foobar 0.1.0 (2016-01-01)
+=========================
+
+### NEW FEATURES
+
+* released to CRAN
+
+
+News
+
+    It is mandatory to use a NEWS or NEWS.md file in the root of your package. See the sample NEWS file above
+
+    Update the news file before every CRAN release, with a section with the package name, version and date of release, like:
+
+    foobar 0.2.0 (2016-04-01)
+    =========================
+
+    Under that header, put in sections as needed, including: NEW FEATURES, MINOR IMPROVEMENTS, BUG FIXES, DEPRECATED AND DEFUNCT. Under each header list items as needed. For each item give a description of the new feature, improvement, bug fix, or deprecated function/feature. Link to any related GitHub issue like (#12). The (#12) will resolve on GitHub in Releases to a link to that issue in the repo.
+    After you have added a git tag and pushed up to GitHub, add the news items for that tagged version to a Release on the Releases tab in your GitHub repo with a title like pkgname v0.1.0
+    If you use NEWS, add it to .Rbuildignore, but not if you use NEWS.md
