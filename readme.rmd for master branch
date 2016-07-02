@@ -2,13 +2,13 @@
 
 # Badges for Travis-CI (and any other badges)
 ```
-use badgecreatr::badgeplacer(location = ".", 
-status = "active", travis = TRUE, codecov = FALSE, 
-licence = "search", githubaccount = "search", 
-githubrepo = "search", 
+use badgecreatr::badgeplacer(     #location = ".", 
+status = "active", 
+githubaccount = "name", 
+githubrepo = "reponame", 
 branch = "master")
 ```
-Also add latest change
+
 
 
 # Short description of the package
