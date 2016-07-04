@@ -2,6 +2,9 @@
 # this time you test all the components in one system. 
 # This is not always possible but you should at least try to combine multiple components
 # that you wrote and check if the expected outcome is correct. 
+#
+# in the unit tests you test the seperate parts
+# in the integration test you test everything combined
 # 
 # integration with dependencies
 # list what you use in other packages and see if those functions still work in new versions of package.
