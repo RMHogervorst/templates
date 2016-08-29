@@ -14,6 +14,10 @@ Sounds nice! Please proceed as following:
 2. If possible, please **create an isolated and reproducible test case.** Make use of [jsFiddle](jsfiddle.net) - for instance - to share your isolated test cases. We won't hold it against you for feature requests, but a live [POC](http://en.wikipedia.org/wiki/Proof_of_concept) is sometimes easier to catch.
 3. **Share as much information as possible.** Include browser and version, version of gitgraph.js, etc. where appropriate. That can help us to reproduce the bug, if so.
 
+## Want to change typos?
+You can click on the readme.rmd file to open it, then click the little pen on the top. You now see the raw file and can edit it.
+When you are finished, go to the bottom en  describe why you changed the page. Then click on ' create a new branch and start pull request'. This will open a new page with more instructions and we can communicate about your changes.
+
 ## Or wanna contribute to the code?
 
 Github's Pull Request is a fantastic tool to contribute to the code.
