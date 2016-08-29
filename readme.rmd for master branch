@@ -12,17 +12,47 @@ branch = "master")
 
 
 # Short description of the package
+This project solves the problem of ...  by using ... 
+
+features:
+  - one
+  - two
+
+# Example usage
+```{r first code example}
+library(package)
+something()
+
+```
+
 
 # Installation instructions
 For now you will have to install using `devtools::install_github("rmhogervorst/PACKAGENAME")`
 
 Installation via cran with : install_packages(NAMEOFPACKAGE)
 
-# Example usage
 
-# Contact
-I'm always looking for people to help me improve my work. 
-Contact me directly, use an [issue](https://github.com/RMHogervorst/PACKAGENAME/issues), fork me or submit a pull request.
 
+
+# Contact and contributing
+I'm always looking for ways to improve my work. You can help me out with many things. Even small ones like typos or unclear
+documentation. Open source is community work, I appreciate everyone's help. 
+
+Contact me directly through mail: ( hogervorst.rm [at] gmail [dot] com ), use the  [issue tracker](https://github.com/RMHogervorst/PACKAGENAME/issues), fork me and/or submit a pull request.
+
+If you are new to open source development or github, or you want more details about contributing, I made a [seperate page for that](contributing.md)
+I may even have [beginner](https://github.com/RMHogervorst/PACKAGE/issues?q=is%3Aopen+is%3Aissue+label%3A%22beginner%22) issues that you can solve. 
+
+# Support:
+If you are having issues you can open a new issue in the issue tracker. I would like to know the following things: 
+
+- what did you want to do?
+- what happened (for instance: error message came on your screen)
+- what do you think is the cause of the problem?
+
+I will try to answer within 1 week, if you haven't heard from me, please email me.
+
+
+## extra's
 [![star this repo](http://githubbadges.com/star.svg?user=RMHogervorst&repo=PACKAGENAME&style=flat)](https://github.com/RMHogervorst/PACKAGENAME)
 [![fork this repo](http://githubbadges.com/fork.svg?user=RMHogervorst&repo=PACKAGENAME&style=flat)](https://github.com/RMHogervorst/PACKAGENAME/fork)
