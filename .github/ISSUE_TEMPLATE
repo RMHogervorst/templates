@@ -1,1 +1,19 @@
 
+This is a template for issues, if you have questions you can delete everything. 
+If you have a problem it is best to be as detailled and specific as you can. 
+I would like to know what you wanted to happen, what you did and what happened.
+
+Dear maintainer, I tried to [what you wanted to do] 
+by doing the followings steps
+[steps]
+
+But it didn't work/ it failed miserably/ It broke my computer and my life's work/ etc
+This happened:
+
+[error messages, results etc]
+
+I have used version 
+[in rstudio you can find the version of the package in the packages pane/ or use sessionInfo() for all active packages
+or you can use packageVersion("packagename") for the specific version of the package]
+with R version [ version]
+on a windows / mac / linux / freebsd / solaris, etc computer.
