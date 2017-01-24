@@ -1,4 +1,5 @@
 ### useful scripts/functions for R.
+#### MIT licence
 
 ## see all the loaded packages. 
 result <- devtools::session_info()$packages 
