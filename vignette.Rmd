@@ -1,0 +1,47 @@
+---
+title: "vignette title"
+author: "Roel M. Hogervorst"
+date: "`r Sys.Date()`"
+bibliography: examplefile.bib
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{vignette title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+Summary - How to write a good vignette
+
+    Length: Trust yourself, but aim for about 20 pages.
+    Language: Don't use language which assumes that the reader is an R and/or subject expert.
+    Structure: Include at least the following sections:
+        Examples
+        Introduction
+        Case studies
+        References
+    It would be nice to include also sections on:
+        Support
+        Motivation
+        Road map
+    Examples: Use lots of examples and don't repeat just the examples from the help pages.
+    Get inspiration from: Rcpp, reshape, plyr, vegan, and see below for more.
+    Secrets of good vignettes:
+        Provide an introduction with a clear purpose of the package.
+        Work with case studies, walk the reader through a task from start to finish.
+        Demonstrate the non-default arguments of the package functions, highlight why and when you want to change them.
+        Write briefly and concisely, but provide reference/footnotes to relevant literature and further help.
+        Provide dummy data to play with.
+        Discuss limitations.
+    What else: Potentially split the vignette into several documents, see Rcpp for an example.
+    
+# Introduction
+*Provide an introduction with a clear purpose of the package.*
+
+# Examples
+
+# Case studies
+*Work with case studies, walk the reader through a task from start to finish*
+
+# motivation
+# support
+# References
