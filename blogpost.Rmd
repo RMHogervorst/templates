@@ -1,0 +1,42 @@
+---
+output: github_document
+---
+
+<!--This is a rmarkdown template, this comment will not display in the final view. 
+This is a three part process: 1. write in rmarkdown, 2. knit to md (modify head yaml part) 3. add to jekkyll blog.
+knit to a markdown document and add that to jekyll blog.
+The part below you have to modify in the markdown step.
+//-->
+
+```
+---
+layout: post
+title: "a title"
+author: roel_hogervorst
+modified: date if necessary
+categories: blog
+excerpt: this is where you want to add some excerpt that will display
+tags: [add tags that describe packages, type and datasets]
+image:
+  feature: banner-projects.png  this will display in r-bloggers as well
+date: date
+---
+
+```
+# tell what you learn in this part 
+
+
+# problem statement
+
+
+## sub headings
+
+## kicker
+
+# references explicitly name them. 
+
+
+### state of machine
+```{r session information}
+sessioninfo::session_info()
+```
