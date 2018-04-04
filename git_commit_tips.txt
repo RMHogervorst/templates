@@ -1,0 +1,44 @@
+What has changed?
+
+how was the change implemented?
+
+why was the change necessary?
+
+------------------------or-----------
+Some awesome title
+
+Why:
+
+* ...
+
+This change addresses the need by:
+
+* ...
+------------------------
+
+SETTING THIS UP ON YOUR COMPUTER:
+
+# https://robots.thoughtbot.com/better-commit-messages-with-a-gitmessage-template
+# 
+
+mODIFY commit.template in ~/.gitconfig
+WITH 
+
+[commit]
+  template = ~/.gitmessage
+
+
+CHANGE .gitmessage
+WITH 
+
+Why:
+
+*
+
+This change addresses the need by:
+
+*
+
+# 50-character subject line
+#
+# 72-character wrapped longer description.
